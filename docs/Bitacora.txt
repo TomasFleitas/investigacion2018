@@ -1,0 +1,16 @@
+Referencias:
+https://pmoracho.github.io/blog/2017/01/04/NLTK-mi-tutorial/
+https://relopezbriega.github.io/blog/2017/09/23/procesamiento-del-lenguaje-natural-con-python/
+https://code.tutsplus.com/es/tutorials/introducing-the-natural-language-toolkit-nltk--cms-28620
+
+https://pythonprogramming.net/using-our-own-data-tensorflow-deep-learning-tutorial/
+https://pythonspot.com/nltk-stemming/
+
+http://blog.chapagain.com.np/python-nltk-stemming-lemmatization-natural-language-processing-nlp/
+
+https://textminingonline.com/dive-into-nltk-part-i-getting-started-with-nltk
+
+https://nlp.stanford.edu/software/spanish-faq.shtml#tagset
+https://programminghistorian.org/es/lecciones/contar-frecuencias
+
+ver rapidminer y datacamp
