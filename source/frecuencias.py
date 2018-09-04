@@ -3,6 +3,7 @@ def listaFrecs(listaPalabras):
     frecuenciaPalab = [listaPalabras.count(p) for p in listaPalabras]
     return dict(list(zip(listaPalabras,frecuenciaPalab)))
 
+#FACU SOBAQUENA
 # Ordena un diccionario de pares palabra-frecuencia en orden de frecuencia descendente.
 def ordenaDicFrec(dicfrec):
     aux = [(dicfrec[key], key) for key in dicfrec]

@@ -22,3 +22,5 @@ STOP_WORDS.remove('esto')
 STOP_WORDS.remove('esta')
 STOP_WORDS.remove('estos')
 STOP_WORDS.remove('este')
+
+#FACU TOMA POR CURIOSO

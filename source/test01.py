@@ -4,7 +4,7 @@ from filtros import esActor, esRol, reformatearTexto, borrarStopwords
 from nltk import word_tokenize, sent_tokenize, bigrams, trigrams
 from nltk.tag import StanfordPOSTagger
 from docx import Document
-#cd Documents\Repos\investigacion2018\source\
+#cd Documents\Repos\investigacion\source\
 
 
 #Configuracion inicial del POSTagger de Stanford (verificar que la ruta sea la correcta, sino no funciona)

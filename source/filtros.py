@@ -19,6 +19,8 @@ def borrarStopwords(listaTokens):
         if token not in STOP_WORDS: palabrasResultado.append(token)
     return palabrasResultado
 
+    #FACU CHUPACHICHI
+
 # Dada una etiqueta, define si representa a un actor o no.
 def esActor(etiqueta):
     if(etiqueta == 'nc0s000' or #Sustantivo comun singular
