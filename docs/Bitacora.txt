@@ -14,3 +14,5 @@ https://nlp.stanford.edu/software/spanish-faq.shtml#tagset
 https://programminghistorian.org/es/lecciones/contar-frecuencias
 
 ver rapidminer y datacamp
+
+https://spacy.io/models/es#es_core_news_sm

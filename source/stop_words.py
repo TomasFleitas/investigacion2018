@@ -5,6 +5,9 @@ NON_WORDS = list(punctuation)
 NON_WORDS.extend(['¿', '¡'])
 STOP_WORDS = set(stopwords.words('spanish'))
 STOP_WORDS.update(NON_WORDS)
+
+'''
+Algunas palabras ambiguas del lenguaje español que son importantes para la semantica del texto:
 STOP_WORDS.remove('es')
 STOP_WORDS.remove('son')
 STOP_WORDS.remove('ellos')
@@ -22,5 +25,4 @@ STOP_WORDS.remove('esto')
 STOP_WORDS.remove('esta')
 STOP_WORDS.remove('estos')
 STOP_WORDS.remove('este')
-
-#FACU TOMA POR CURIOSO
+'''
